@@ -1,5 +1,16 @@
 # @graphql-yoga/common
 
+## 0.1.0-beta.8
+
+### Patch Changes
+
+- 2b6916f: fix(common): error responses should also have data: null per spec
+- d137445: fix(common): encode string before passing in SSE Responses
+- 2b6916f: fix(common): correct content-type for error responses
+- Updated dependencies [9f628e5]
+- Updated dependencies [9f628e5]
+  - @graphql-yoga/render-graphiql@0.1.0-beta.3
+
 ## 0.1.0-beta.7
 
 ### Minor Changes
